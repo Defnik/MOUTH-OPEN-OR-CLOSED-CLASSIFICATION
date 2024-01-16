@@ -7,3 +7,6 @@ TO USE OUR MODEL:
 3) Run the gui.py file
 4) upload the image in the open image button from your PC 
 5) click OK and then the model predicts the image 
+
+FOR DATASET:
+1)download yawn dataset from kaggle
